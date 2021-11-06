@@ -1,5 +1,4 @@
 # HomeWork
 Shai, Sharon, Mark.
 
-Bro.....
-How the F it works??????????
+I think I figured it out :)
