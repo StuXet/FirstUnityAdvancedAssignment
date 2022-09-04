@@ -1,5 +1,4 @@
-# HomeWork
-Simple Tic Tac Toe
+# Simple Tic Tac Toe
 is as you read this, a classic Tic Tac Toe game
 
 This GAME was submitted as homework for the advanced unity course,
